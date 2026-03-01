@@ -1,0 +1,12 @@
+# .npmignore — what to exclude from npm publish
+package-lock.json
+.env.example
+secrets/
+docs/
+benchmarks/
+tests/
+DESIGN.md
+RESEARCH.md
+CONTRIBUTING.md
+GITHUB_SETUP_CHECKLIST.md
+.github/
